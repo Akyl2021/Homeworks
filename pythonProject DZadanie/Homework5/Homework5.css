@@ -1,0 +1,17 @@
+.a {
+  color: rgb(29, 29, 78);
+  text-align-last: center;
+  font-size: 45px;
+}
+.b {
+  width: 400px;
+  height: 400px;
+  float: left;
+  transform: perspective(400px) rotate(0deg);
+  transform: perspective(400px) rotate(360deg);
+}
+.d {
+  color: rgb(34, 34, 211);
+  font-size: 40px;
+  text-align: center;
+}
